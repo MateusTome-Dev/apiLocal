@@ -1,0 +1,17 @@
+[
+    {
+      "nome": "sao paulo",
+      "aigla": "SP",
+      "bairro": "lapa"
+    },
+    {
+      "nome": "rio de janeiro",
+      "aigla": "RJ",
+      "bairro": "flamengo"
+    },
+    {
+     "nome": "Brasilia",
+      "aigla": "DF",
+      "bairro": "aguas claras"
+    }
+  ]
